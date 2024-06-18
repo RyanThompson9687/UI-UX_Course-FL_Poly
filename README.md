@@ -15,7 +15,7 @@ Work can be found in the file "Assignment 3 Report.pdf"
 Other files are the Adobe Illustrator project files and PNGs of each created icon.
 
 
-
+________________________________________________________________________________________________________________________________________________
 
 MobileAppDesign.zip
 

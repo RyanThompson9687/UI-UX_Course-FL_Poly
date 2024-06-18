@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 MobileAppDesign.zip
 
-Group Project: Contributor - Samiul Mumin, a Computer Science student at Florida Polytechnic
+Group Project: Contributor - Samiul Mumin, a Computer Science student at Florida Polytechnic University
 
 Tasked with creating a UI mock-up for a mobile app using Figma, and writing a report analyzing it.
 

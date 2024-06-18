@@ -1,5 +1,5 @@
 # UI-UX_Course-FL_Poly
-Coursework from the User Interface and User Experience course taken at Florida Polytechnic University.
+Coursework from the User Interface and User Experience course (CEN 4072) taken at Florida Polytechnic University.
 
 ________________________________________________________________________________________________________________________________________________
 
